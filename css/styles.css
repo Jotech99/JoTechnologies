@@ -166,11 +166,11 @@ html::-webkit-scrollbar-thumb{
 
 /*Toggle Dark and Light Theme */
 .theme-btn{
-	top: 5%;
+	top: 4%;
 	right: 3%;
 	background-color: var(--color-grey-4);
-	width: 60px;
-	height: 60px;
+	width: 40px;
+	height: 40px;
 	border-radius: 50%;
 	cursor: pointer;
 	position: fixed;
@@ -179,6 +179,7 @@ html::-webkit-scrollbar-thumb{
 	justify-content: center;
 	box-shadow: 0 3px 15px rgba(0,0,0,.3);
 	transition: all .1s ease-in-out;
+	
 }
 .theme-btn i{
 	font-size: 1.6rem;
